@@ -3,6 +3,7 @@ package com.hibernate.chapter1;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
+//otro
 //para crear una tabla de esta clase
 @Entity 
 public class Employee {
